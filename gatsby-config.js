@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/shikara",
   siteMetadata: {
     title: `Letters to Iqra`,
     name: `شکارا`,
